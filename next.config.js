@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/bedrockreal.github.io",
+  basePath: "/",
 };
 
 module.exports = nextConfig;
